@@ -1,0 +1,20 @@
+[OIII]5007n1
+ Center= 6868.76 +/- 0.00 
+ FWHM= 5.034e+02 km / s +/- 0.000e+00 km / s 
+ Flux= 3.465e-15 erg / (A cm2 s) +/- 0.000e+00 Angstrom erg / (A cm2 s) 
+ EW= 285.27 +/- 0.00 Angstrom 
+[OIII]4959n1
+ Center= 6803.00 +/- 0.00 
+ FWHM= 5.034e+02 km / s +/- 0.000e+00 km / s 
+ Flux= 1.144e-15 erg / (A cm2 s) +/- 0.000e+00 Angstrom erg / (A cm2 s) 
+ EW= 93.78 +/- 0.00 Angstrom 
+[OIII]5007n2
+ Center= 6863.33 +/- 0.00 
+ FWHM= 6.162e+02 km / s +/- 0.000e+00 km / s 
+ Flux= 9.607e-16 erg / (A cm2 s) +/- 0.000e+00 Angstrom erg / (A cm2 s) 
+ EW= 79.06 +/- 0.00 Angstrom 
+[OIII]4959n2
+ Center= 6797.63 +/- 0.00 
+ FWHM= 6.162e+02 km / s +/- 0.000e+00 km / s 
+ Flux= 3.172e-16 erg / (A cm2 s) +/- 0.000e+00 Angstrom erg / (A cm2 s) 
+ EW= 25.99 +/- 0.00 Angstrom 

@@ -1,0 +1,21 @@
+ Chi2= 2.977e+02; Npts=  79; RMS=1.222e-18 erg / (A cm2 s);             Noise= 6.317e-19 erg / (A cm2 s)
+[OIII]5007n
+ Center= 6906.67 +/- 0.05 
+ FWHM= 6.969e+02 km / s +/- 6.099e+00 km / s 
+ Flux= 1.339e-15 erg / (A cm2 s) +/- 1.645e-17 Angstrom erg / (A cm2 s) 
+ EW= 176.26 +/- 2.16 Angstrom 
+[OIII]4959n
+ Center= 6840.55 +/- 0.05 
+ FWHM= 6.969e+02 km / s +/- 6.099e+00 km / s 
+ Flux= 4.421e-16 erg / (A cm2 s) +/- 5.429e-18 Angstrom erg / (A cm2 s) 
+ EW= 59.02 +/- 0.72 Angstrom 
+[OIII]5007i
+ Center= 6893.12 +/- 0.59 
+ FWHM= 2.003e+03 km / s +/- 3.600e+01 km / s 
+ Flux= 1.069e-15 erg / (A cm2 s) +/- 3.297e-17 Angstrom erg / (A cm2 s) 
+ EW= 141.07 +/- 4.35 Angstrom 
+[OIII]4959i
+ Center= 6827.13 +/- 0.59 
+ FWHM= 2.003e+03 km / s +/- 3.600e+01 km / s 
+ Flux= 3.528e-16 erg / (A cm2 s) +/- 1.088e-17 Angstrom erg / (A cm2 s) 
+ EW= 47.24 +/- 1.46 Angstrom 

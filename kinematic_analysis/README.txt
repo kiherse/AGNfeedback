@@ -1,4 +1,4 @@
-Within this folder, we present the **kinematic analysis of the [OIII]4959 and [OIII]5007 emission lines for the whole 19-type II quasars sample**.
+Within this folder, we present the kinematic analysis of the [OIII]4959 and [OIII]5007 emission lines for the whole 19-type II quasars sample.
 
 Each notebook follows a similar structure:
 
